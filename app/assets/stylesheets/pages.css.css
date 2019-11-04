@@ -1,0 +1,39 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  margin: 0 auto;
+}
+
+.jumbotron {
+  height: 800px;
+  background: url(https://s3.amazonaws.com/codecademy-content/projects/broadway/bg.jpg) no-repeat center center fixed;
+}
+
+.nav {
+  margin: 0;
+  padding: 20px 0;
+  background-color: #333;
+  text-align: left;
+}
+
+.nav li {
+  padding: 5px;
+  color: #fff;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 600;
+  font-size: 12px;
+  display: inline;
+}
+
+.main {
+  position: relative;
+  top: 180px;
+  text-align: center;
+}
+
+.buttonLink {
+  background-color: #878787;
+}
